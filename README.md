@@ -1,9 +1,9 @@
 # Rapport de Ventes Interactif — Power BI
 
 ## Présentation du Projet
-Ce projet présente un tableau de bord analytique conçu sous **Power BI** permettant de piloter la performance commerciale et d'analyser le chiffre d'affaires annuel ainsi que les volumes de ventes. 
+Ce projet présente un tableau de bord analytique conçu sous Power BI permettant de piloter la performance commerciale et d'analyser le chiffre d'affaires annuel ainsi que les volumes de ventes. 
 
-L'objectif est d'offrir une vision globale et détaillée des performances par catégorie de boutique, par période (analyse mensuelle et annuelle) et par zone géographique aux États-Unis[cite: 1].
+L'objectif est d'offrir une vision globale et détaillée des performances par catégorie de boutique, par période (analyse mensuelle et annuelle) et par zone géographique aux États-Unis.
 
 
 ## Aperçu du Tableau de Bord
@@ -18,7 +18,7 @@ L'objectif est d'offrir une vision globale et détaillée des performances par c
   * Croissance par rapport à l'année précédente (Variance % N-1) : +15,16 %.
 
 * Répartition par Catégorie d'Établissement :
-  * La catégorie **Boutique de nouveautés** représente la plus grande part des ventes avec **124 M€**[cite: 1].
+  * La catégorie Boutique de nouveautés représente la plus grande part des ventes avec **124 M€**[cite: 1].
   * Suivie par les *Supermarchés* (14 M€), les *Boutiques de cadeaux* (12 M€), les *Magasins d'informatique* (12 M€) et les *Entreprises* (11 M€)[cite: 1].
 
 * **Analyse Temporelle & Tendances :**
@@ -28,7 +28,6 @@ L'objectif est d'offrir une vision globale et détaillée des performances par c
 
 * Cartographie Géographique :
   * Carte interactive des États-Unis mettant en évidence l'intensité des ventes par État (forte concentration notamment au Texas).
-
 
 ## Stack Technique & Compétences Mobiles
 
